@@ -38,13 +38,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github/eppesh" # e.g., "github username"
+  github           : "eppesh" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin/shuaihua-zhao" # e.g., "linkedin username"
+  linkedin         : "shuaihua-zhao" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0004-0715-1028" # e.g., "https://orcid.org/xxxx"
   pinterest        :
