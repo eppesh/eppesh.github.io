@@ -24,10 +24,12 @@ Shuaihua Zhao is a third-year Ph.D. student in Computer Science and Engineering 
 - [Aug 2025] &nbsp; Our paper *"LASER: Line-Aware and Self-Balancing Learned Index for Rapid Key Lookup"* was accepted to **IPCCC 2025**
 
 ## Updates
-- [Jul 2025] &nbsp; Our paper "LiBox: A Learned Index as an Array—Eliminating Last-Mile Search"* received the decision **Overall Recommendation: Revision** from *Proceedings of the VLDB Endowment (PVLDB), Volume 19*.
+- [Nov 2025] &nbsp; Our paper "LiBox: A Learned Index as an Array to Minimize Last-Mile Search"* was accepted to *Proceedings of the VLDB Endowment (PVLDB), Volume 19*.
 
 # 📝 Publications 
 ### Peer-reviewed Conference
+<a href="https://ieeexplore.ieee.org/document/xxxxxx" target="_blank"><img src="https://img.shields.io/badge/IPCCC-2025-blue?style=flat-square"></a> Jian Zhou, Luna Wang, <u>Shuaihua Zhao</u>, Chen Zhong, and Song Jiang, &quot;**LiBox: A Learned Index as an Array to Minimize Last-Mile Search**&quot;. In *Proceedings of the VLDB Endowment (PVLDB), Volume 19*. [[paper](xxxx.pdf)]]
+
 <a href="https://ieeexplore.ieee.org/document/xxxxxx" target="_blank"><img src="https://img.shields.io/badge/IPCCC-2025-blue?style=flat-square"></a> <u>Shuaihua Zhao</u>, Jian Zhou, and Song Jiang, &quot;**LASER: Line-Aware and Self-Balancing Learned Index for Rapid Key Lookup**&quot;. In *Proceedings of the 44th International Performance Computing and Communications Conference (IPCCC 2025), Nov 2025*. [[paper](http://eppesh.github.io/files/LASER.pdf)] [[github](https://github.com/eppesh/GREBench/tree/laser)]
 
 <a href="https://ieeexplore.ieee.org/document/xxxxxx" target="_blank"><img src="https://img.shields.io/badge/IPCCC-2025-blue?style=flat-square"></a> Sujit Maharjan, <u>Shuaihua Zhao</u>, and Song Jiang, &quot;**TurboIndex: Making a Page-based DB index Both Memory-space and Disk-I/O Efficient**&quot;. In *Proceedings of the 44th International Performance Computing and Communications Conference (IPCCC 2025), Nov 2025*. [[paper](http://eppesh.github.io/files/TurboIndex_IPCCC.pdf)]]
