@@ -20,9 +20,6 @@ redirect_from:
 Shuaihua Zhao is a third-year Ph.D. student in Computer Science and Engineering at the University of Texas at Arlington. He received his B.E. in Software Engineering from Huanghuai University in 2013 and his M.S. in Cartography and Geographical Information Systems from Wuhan University. His current research focuses on indexing techniques and high-performance computing, with an emphasis on designing efficient data structures and algorithms for large-scale systems. He is passionate about bridging theoretical research with practical applications to solve real-world computational challenges. 
 
 # 📢  News
-## Highlights
-- [Aug 2025] &nbsp; Our paper *"LASER: Line-Aware and Self-Balancing Learned Index for Rapid Key Lookup"* was accepted to **IPCCC 2025**
-
 ## Updates
 - [Nov 2025] &nbsp; Our paper "LiBox: A Learned Index as an Array to Minimize Last-Mile Search"* was accepted to *Proceedings of the VLDB Endowment (PVLDB), Volume 19*.
 
